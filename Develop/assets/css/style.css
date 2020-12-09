@@ -5,23 +5,24 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #FFBA00;
 }
 /* changed class to html semantic */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #0a0b06;
     color: #ffffff;
 }
 /* changed class to html element */
 header h1 {
     display: inline-block;
     font-size: 48px;
+    color: #FFBA00;
 }
 /* changed class to html element */
 header h1 .seo {
-    color: #d9dcd6;
+    color: #FFBA00;
 }
 /* changed class to html element / changed div to nav */
 header nav {
@@ -83,7 +84,7 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #050505;
 }
 /* consolidate three into one */
 .benefit-lead, .benefit-cost, .benefit-brand {
@@ -107,7 +108,7 @@ aside {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #050707;
     color: #ffffff;
 }
 /* consolidate three into one */
